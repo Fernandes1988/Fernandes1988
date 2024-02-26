@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en-UK">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport">
+    <link rel="stylesheet" href="style.css">
+    <title>Practice HTML</title>
+</head>
+<body>
+
+<!-- Our Future -->
+
+<h1>My interest in this website is to have people around create new things for the future</h1>
+<h2>I call this website OUR FUTURE because our lives depend on what we do today to plan for the future</h2>
+
+<p>Contact me via email: <a href="mailto:ourfuture@gmail.com">ourfuture@gmail.com</a></p>
+
+</body>
+</html>
